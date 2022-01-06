@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  place-items: center;
+}
+.container .calc {
+  display: grid;
+  place-items: center;
+
+  background-color: rgb(234, 228, 238);
+  width: 450px;
+}
